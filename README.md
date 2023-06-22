@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width=300 />
-  <h1 align="center">Hello, I'm Miles0101 </h1>
+  <h1 align="center">Hello, I'm Santiago Almeida </h1>
   <h3 align="center">I'm just starting out in this wonderful and interesting world of programming. 
-   P.D. I love Python </h3>
  </div>
  
  ---
